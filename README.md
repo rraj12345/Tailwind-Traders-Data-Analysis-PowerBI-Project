@@ -99,7 +99,6 @@ In the Capstone project for Tailwind Traders, the focus was on preparing, config
   - **Pie Chart for Median Sales Distribution by Country:** This pie chart depicted the distribution of median sales across countries, providing a clear view of sales concentration.
   - **Line Chart for Median Sales Over Time:** The line chart, including a forecast, tracked median sales trends over time, offering predictive insights into future sales patterns.
   - **Cards for Measures:** Cards visualized key measures such as Stock, Quantity Purchased, and Median Sales, enhancing the clarity of performance metrics.
-  - **Slicer:** A slicer for Country Name enabled interactive filtering of the data in the report.
 
 - **Profit Overview Report:**
   - **Bar Chart for Net Revenue by Product:** This chart displayed net revenue by product, identifying the Modular Sofa Set as the top revenue generator.
@@ -107,7 +106,6 @@ In the Capstone project for Tailwind Traders, the focus was on preparing, config
   - **Area Chart for Yearly Profit Margin Over Time:** The area chart illustrated profit margin trends over time, showing fluctuations and trends in profitability.
   - **Cards for Measures:** Cards were used to show YTD Profit and Net Revenue USD, focusing on key financial metrics.
   - **KPI for Gross Revenue USD:** A KPI displayed Gross Revenue USD, with trend analysis over time providing insights into revenue performance.
-  - **Slicer:** A date slicer allowed for filtering data by specific time periods, enhancing the granularity of the analysis.
 
 ---
 
