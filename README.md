@@ -1,4 +1,4 @@
-### Capstone Project Report: Tailwind Traders Data Analysis
+Tailwind Traders Data Analysis PowerBI-Project
 
 ---
 
